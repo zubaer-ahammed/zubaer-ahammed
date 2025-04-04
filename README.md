@@ -13,16 +13,17 @@
 
 
 <p align="center">
-  <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/I0DRTK6PMGKH">
-    <img src="https://img.shields.io/badge/IBM%20Certified%20Full%20Stack%20Developer-%23007A8D?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Certified Full Stack Developer">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/I0DRTK6PMGKH" target="_blank">
+    <img src="https://img.shields.io/badge/IBM%20Full%20Stack%20Developer-%23007A8D?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Full Stack Developer">
   </a>
-  <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/JA2C32MYUZ79">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/JA2C32MYUZ79" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Cyber%20Security%20Specialist-%2300B5E2?style=for-the-badge&logo=google&logoColor=white" alt="Google Certified Cyber Security Specialist">
   </a>
-  <a target="_blank" href="https://courses.edx.org/certificates/4c62b3861a58418696d19787a2cca0b7">
-    <img src="https://img.shields.io/badge/Harvard%20Online%20Data%20Science:%20Machine%20Learning-%230C1A5B?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Online Data Science: Machine Learning">
+  <a href="https://courses.edx.org/certificates/4c62b3861a58418696d19787a2cca0b7" target="_blank">
+    <img src="https://img.shields.io/badge/Harvard%20Data%20Science%20Machine%20Learning-%230C1A5B?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Data Science Machine Learning">
   </a>
 </p>
+
 
 
 
