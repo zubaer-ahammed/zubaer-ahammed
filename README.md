@@ -22,6 +22,9 @@
   <a href="https://courses.edx.org/certificates/4c62b3861a58418696d19787a2cca0b7" target="_blank">
     <img src="https://img.shields.io/badge/Harvard%20Online%2D%20Data%20Science%3A%20Machine%20Learning-%230C1A5B?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Online Data Science: Machine Learning">
   </a>
+ <a href="https://www.upwork.com/freelancers/zubaer" target="_blank">
+    <img src="https://img.shields.io/badge/Top%20Rated%20at%20Upwork-%2300B2A9?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated at Upwork">
+  </a>
 </p>
 
 
