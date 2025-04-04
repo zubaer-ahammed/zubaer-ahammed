@@ -1,16 +1,15 @@
-## Hi there 👋
+<img width="1157" alt="zubaer-upwork" src="https://github.com/user-attachments/assets/97aa1994-97bc-4dd0-bb5d-bf853b11a36b" />
 
-<!--
-**zubaer-ahammed/zubaer-ahammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Zubaer! 👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, Node.js, Laravel, WordPress, React, Typescript, Python, Django, Java ... <br>
+    :email:	zubaerahammed223@gmail.com <br>
+    :art: Portfolio: https://www.linkedin.com/in/zubaerahammed/ <br>
+                Twitter/X: https://x.com/zubaer_aham<br>
+  :briefcase: Hire me at https://www.upwork.com/freelancers/zubaer - Upwork <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </samp>
+</p>
